@@ -1,8 +1,9 @@
 const tsConfig = require('./tsconfig.json')
+const package = require('./package.json')
 
 module.exports = (wallaby) => {
   return {
-    name: 'Test Server v2',
+    name: package.name,
     files: [
       'src/**/*.ts', 'src/**/*.tsx'
     ],
