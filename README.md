@@ -1,12 +1,15 @@
-# react-ts-less-fuse-example
+# fusebox-react-typescript-starter
 
-## Test with dev build
-`node fuse.js bundle-dev`
+## How to run for test?
 
-**Show into browser at `http://localhost:4444/` <br>**
+1. Install dependencies: `npm install`
+2. Run this command: `npm run serve`
+3. Open your favorite browser, and go to `http://localhost:4444/`.
 
-
-## Test with quantum build
-`node fuse.js bundle-standalone`
-
-**Show into browser on the local folder <br>**
+## Bundled Settings
+ - TypeScript 2.6.x
+ - Less for styling
+ - TSLint (tslint-config-standard)
+ - React 16
+ - mobx & mobx-react
+ - RxJS
