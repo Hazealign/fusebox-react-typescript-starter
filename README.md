@@ -13,3 +13,5 @@
  - React 16
  - mobx & mobx-react
  - RxJS
+ - fetch API (`window.fetch`)
+ - Ava & Wallaby.js

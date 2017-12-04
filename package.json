@@ -24,6 +24,8 @@
     "@types/react-dom": "^16.0.2",
     "@types/react-router": "^4.0.19",
     "@types/react-router-dom": "^4.2.3",
+    "ava": "^0.24.0",
+    "ava-ts": "^0.23.0",
     "fuse-box": "^2.4.0",
     "fuse-test-runner": "^1.0.15",
     "fuse-tools": "^1.0.5",
